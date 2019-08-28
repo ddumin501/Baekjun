@@ -1,3 +1,4 @@
+package method;
 import java.util.Scanner;
 
 public class p1065 {
